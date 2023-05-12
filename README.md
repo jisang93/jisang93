@@ -4,6 +4,7 @@ Hi, I’m a M.S. degree Student in the Department of Artificial Intelligence, Ko
 ## 👀 Research Interests
 - Speech Synthesis
 - Singing Voice Synthesis
+- Generative Models
 - Natural Language Processing
 
 ## 🌱 Current Status
