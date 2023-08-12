@@ -9,3 +9,7 @@ Hi, I’m a M.S. degree Student in the Department of Artificial Intelligence, Ko
 
 ## 🌱 Current Status
  I’m currently learning at a Laboratory of Pattern Recognition and Machine Learning (PRML), Korea University, South Korea.
+
+## 📑 Publications
+### 2023
+- PauseSpeech: Natural Speech Synthesis via Pre-trained Language Model and Pause-based Prosody Modeling, **J.-S. Hwang**, S.-H. Lee, and S.-W. Lee, ACPR, 2023. [[Demo](https://jisang93.github.io/pausespeech-demo/)]
